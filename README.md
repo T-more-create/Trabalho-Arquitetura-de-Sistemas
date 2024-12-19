@@ -27,12 +27,14 @@ Este projeto é uma API RESTful desenvolvida com FastAPI, simulando um sistema d
 # - 🏃 Como Executar
 
 Instale as dependências:
-
+```bash
 pip install -r requirements.txt
+```
 
 Inicie o servidor:
-
+```bash
 uvicorn main:app --reload
+```
 
 # - 🧪 Testes com Postman
 
